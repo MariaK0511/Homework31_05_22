@@ -1,7 +1,5 @@
 package Task1;
 
-import java.util.Random;
-
 public class Vector {
     double x, y, z;
 
@@ -20,10 +18,7 @@ public class Vector {
     }
 
     public Vector getVectorMultiplWithAnotherVector(Vector vector) {
-        return new Vector(
-                y * vector.z - z * vector.y,
-                z * vector.x - x * vector.z,
-                x * vector.y - y * vector.x);
+        return new Vector(y * vector.z - z * vector.y, z * vector.x - x * vector.z, x * vector.y - y * vector.x);
     }
 
 
