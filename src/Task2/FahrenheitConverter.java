@@ -1,10 +1,10 @@
 package Task2;
 
-public class FahrenheitConverter implements BaseConverter{
+public class FahrenheitConverter implements BaseConverter {
 
     @Override
     public double getConverterDegreesCelsius(double convert) {
-        return convert * 1.8000+ 32.00;
+        return convert * 1.8000 + 32.00;
     }
 
     @Override

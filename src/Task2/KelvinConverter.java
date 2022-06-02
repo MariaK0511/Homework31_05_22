@@ -6,8 +6,6 @@ public class KelvinConverter implements BaseConverter{
     @Override
     public double getConverterDegreesCelsius(double convert) {
         return convert + 273.15;
-
-
     }
 
     @Override
