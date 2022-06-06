@@ -1,4 +1,4 @@
-package Task2;
+package task2;
 
 public interface BaseConverter {
     public double getConverterDegreesCelsius(double convert);

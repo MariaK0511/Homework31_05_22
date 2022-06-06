@@ -1,4 +1,4 @@
-package Task3;
+package task3;
 
 public class AllCandidates {
     Candidate candidates[] = new Candidate[3];

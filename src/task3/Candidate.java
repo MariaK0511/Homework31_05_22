@@ -1,6 +1,4 @@
-package Task3;
-
-import java.util.Random;
+package task3;
 
 public class Candidate {
     private String name;

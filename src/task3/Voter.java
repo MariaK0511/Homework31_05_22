@@ -1,8 +1,4 @@
-package Task3;
-
-import Task1.Vector;
-
-import java.util.Random;
+package task3;
 
 public class Voter {
     String name;

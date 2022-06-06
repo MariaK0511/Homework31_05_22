@@ -1,4 +1,4 @@
-package Task3;
+package task3;
 
 public class AllVoters {
     Voter[] voters = new Voter[5];
